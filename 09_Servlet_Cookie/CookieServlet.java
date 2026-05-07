@@ -10,7 +10,7 @@ public class CookieServlet extends HttpServlet {
         PrintWriter out = response.getWriter();
         
         // Creating a new cookie
-        Cookie ck = new Cookie("user_token", "java_viva_2026");
+        Cookie ck = new Cookie("user_token", "java_exam_2026");
         ck.setMaxAge(60*60); // 1 hour expiry
         response.addCookie(ck);
         

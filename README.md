@@ -1,6 +1,6 @@
-# Java Technology Viva Preparation (Advanced Java)
+# Java Technology Practical Examination (Advanced Java)
 
-This repository contains 10 practical programs designed for the Java/Web-Tech Exam Viva.
+This repository contains 10 practical programs designed for the Java/Web-Tech Practical Examination.
 
 ---
 
@@ -35,4 +35,4 @@ Setting and managing browser cookies for state management in Servlets.
 A small MVC application integrating Servlets, JSP, Session handling, and Model classes.
 
 ---
-**Good luck with the Viva! 🚀**
+**Good luck with the Exams! 🚀**

@@ -10,4 +10,4 @@ This practical demonstrates how to connect a JSP page to a MySQL database and pe
 
 ### Configuration:
 - Ensure the MySQL JDBC driver is in the `lib` folder.
-- Database: `viva_db`, Table: `users`.
+- Database: `exam_db`, Table: `users`.

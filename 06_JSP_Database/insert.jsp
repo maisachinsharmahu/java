@@ -9,7 +9,7 @@
         
         try {
             Class.forName("com.mysql.jdbc.Driver");
-            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/viva_db", "root", "password");
+            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/exam_db", "root", "password");
             
             PreparedStatement ps = con.prepareStatement("insert into users(name, email) values(?, ?)");
             ps.setString(1, name);
